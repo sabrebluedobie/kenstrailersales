@@ -124,6 +124,9 @@ table {
         max-width: fit-content;
         position: relative;
     }
+    
+  
+
 }
 
 @media (min-width: 451px),(max-width:800px) {
